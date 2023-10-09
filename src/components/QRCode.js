@@ -2,8 +2,8 @@ import '../styles/QRCode.css';
 
 function QRCode() {
     return(
-        <div>
-            
+        <div className='qr-code-body'>
+            Hello!
         </div>
     )
 }
