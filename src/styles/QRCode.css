@@ -1,0 +1,19 @@
+.qr-code-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.qr-code-image {
+    height: 340px;
+    width: 340px;
+    border-radius: 8px;
+}
+
+.qr-body {
+    width: 300px;
+    text-align: center;
+}
