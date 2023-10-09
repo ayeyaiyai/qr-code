@@ -5,4 +5,5 @@
     height: 100vh;
     width: 100%;
     background-color: rgba(213, 225, 239, 255);
+    min-height: 600px;
 }
